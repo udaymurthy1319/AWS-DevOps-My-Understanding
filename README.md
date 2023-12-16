@@ -1,11 +1,11 @@
 # AWS-DevOps-My-Understanding
 Day to day understanding in AWS\
 #IAM\
-Identity Access Management: 
+Identity Access Management:\ 
 #EC2\
-EC2 Instance
+EC2 Instance\
 #AWS Networking\
-VPC
+VPC\
 #AWS Security\
 
 #AWS Route 53\
