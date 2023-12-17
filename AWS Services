@@ -1,3 +1,45 @@
 #||List of services||
-Compute: 
+
+<b>Compute</b>: 
 EC2 Instance
+ECR (Elastic Container Registry)
+ ECS (EC2 Container Service)
+AWS Fargate
+AWS Lambda
+AWS Elastic Beanstack
+
+Database:
+Amazon DynamoDB
+Amazon ElastiCache
+Amazon Aurora
+Amazon RDS
+
+Analysis:
+Amazon Kinesis
+Amazon Redshift
+Amazon Athena
+AWS Glue
+
+Networking and Content Delivery Services:
+Amazon Route 53
+Amazon CloudFront
+Amazon API Gateway
+AWS Elastic Load Balancing
+Amazon VPC (Virtual Private Cloud)
+
+Integration Services:
+Amazon MQ
+Amazon SQS
+Amazon SNS
+Amazon SES
+AWS Secrets Manager
+
+Management & Governance:
+AWS CloudFormation
+AWS CloudWatch
+
+Data Storage
+Amazon S3
+Amazon S3 Glacier
+Amazon EBS
+Amazon EFS
