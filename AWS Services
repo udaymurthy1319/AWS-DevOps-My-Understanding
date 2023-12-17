@@ -1,7 +1,7 @@
 #||List of services||
 
 <b>Compute</b>: 
-EC2 Instance: This service lets you rent/create virtual servers in the cloud. Most of them are virtual machines with various operating system, ranging from tiny two vCPU and 0.5Gb of RAM to beefy 96-core machines with 384 Gb of RAM. The service is designed for any workload, although you’ll still need to choose the best instances for your specific tasks.
+EC2 Instance: This service lets you rent/create virtual servers in the cloud. Most of them are virtual machines with various operating system, ranging from tiny two vCPU and 0.5Gb of RAM to beefy 96-core machines with 384 Gb of RAM./ The service is designed for any workload, although you’ll still need to choose the best instances for your specific tasks./
 ECR (Elastic Container Registry)
  ECS (EC2 Container Service)
 AWS Fargate
